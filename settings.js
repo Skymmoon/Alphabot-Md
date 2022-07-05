@@ -23,23 +23,23 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Xfast-MD" //namabot kalian
-global.ownername= "Xfast" //nama kalian
+global.botname = "Acay-MD" //namabot kalian
+global.ownername= "Acay" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "xfastbotz@gmail.com" //bebas
+global.email = "acaybotz@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285792519213","6283862006229"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6281365960346","6283862006229"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6283862006229" // nomor wa kalian
 global.ownernomerr = "+6283862006229" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 
-global.packname = '© Xfast' //sticker wm ubah
-global.author = 'Di Buat Oleh Xfast' //sticker wm ganti nama kalian
+global.packname = '© Acay' //sticker wm ubah
+global.author = 'Di Buat Oleh Acay' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
